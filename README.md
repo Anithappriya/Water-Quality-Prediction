@@ -124,7 +124,7 @@ Based on the predicted result, the system provides a classification of water qua
 
 ## Model Accuracy Comparison
 
-### Accuracy Graph
+![Accuracy Graph](images/accuracy_graph.png)
 
 
 ---

@@ -133,3 +133,11 @@ Based on the predicted result, the system provides a classification of water qua
 
 This project demonstrates how machine learning techniques can be used to analyze water quality parameters and predict water potability. By comparing multiple classification algorithms, the project identifies XGBoost as the most effective model for water quality prediction and provides valuable insights for water quality monitoring applications.
 
+
+## Author
+
+Anithappriya
+
+Aspiring Data Scientist | Machine Learning Enthusiast
+
+GitHub: https://github.com/Anithappriya
